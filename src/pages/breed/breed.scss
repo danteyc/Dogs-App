@@ -1,0 +1,14 @@
+h1{
+    span{
+        text-transform: capitalize;
+    }
+}
+.image-dog{
+    max-width: 400px;
+    margin: 0 auto;
+    border: 5px solid #4399FD;
+    img{
+        display: block;
+        width: 100%;
+    }
+}
